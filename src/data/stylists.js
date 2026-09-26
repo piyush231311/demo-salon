@@ -1,0 +1,58 @@
+/**
+ * Maison Aurelia — Master Stylists & Practitioners
+ */
+
+export const stylists = [
+  {
+    id: "isabella-laurent",
+    name: "Isabella Laurent",
+    role: "Founder & Creative Director",
+    specialties: ["Architectural Silhouette Cutting", "Bespoke French Balayage", "Couture Bridal Upstyling"],
+    bio: "With 15 years leading European coiffure, Isabella treats hair as living sculpture. Her consultations are rooted in harmony between bone structure, personal aura, and ease of daily wear.",
+    experienceYears: 15,
+    imageUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    alt: "Isabella Laurent, Founder and Master Stylist",
+    accolades: "Prix de l'Excellence Coiffure Paris",
+    availableDays: ["Tuesday", "Wednesday", "Thursday", "Saturday"],
+    priceTier: "Master Director",
+  },
+  {
+    id: "antoine-moreau",
+    name: "Antoine Moreau",
+    role: "Master Colour Architect",
+    specialties: ["Dimensional High Blonde", "Zero-Demarcation Balayage", "Colour Restoration"],
+    bio: "Trained under Parisian colour masters, Antoine has formulated tones for runway and film. He believes tone must whisper elegance rather than shout technique.",
+    experienceYears: 11,
+    imageUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+    alt: "Antoine Moreau, Master Colour Architect",
+    accolades: "L'Oréal Colour Trophy Finalist",
+    availableDays: ["Tuesday", "Friday", "Saturday"],
+    priceTier: "Senior Artist",
+  },
+  {
+    id: "camille-vane",
+    name: "Camille Vane",
+    role: "Senior Editorial & Texture Specialist",
+    specialties: ["Effortless Dry Cutting", "Natural Curl Architecture", "Modern Red Carpet Finishing"],
+    bio: "Camille moves seamlessly between studio editorial shoots and salon clients, specializing in lived-in texture that requires minimal effort yet exudes high Parisian charm.",
+    experienceYears: 9,
+    imageUrl: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80",
+    alt: "Camille Vane, Senior Editorial Stylist",
+    accolades: "Milan Fashion Week Session Stylist",
+    availableDays: ["Wednesday", "Thursday", "Friday", "Saturday"],
+    priceTier: "Senior Artist",
+  },
+  {
+    id: "elena-rostova",
+    name: "Elena Rostova",
+    role: "Head of Trichology & Aesthetic Skin",
+    specialties: ["Hydro-Thermal Head Spa", "Buccal Facial Sculpting", "Cellular Scalp Diagnostics"],
+    bio: "Elena holds degrees in trichology and dermal aesthetics. Her sanctuary rituals merge therapeutic touch with clinical-grade botanical formulations for total rejuvenation.",
+    experienceYears: 12,
+    imageUrl: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=800&q=80",
+    alt: "Elena Rostova, Head of Trichology & Aesthetic Skin",
+    accolades: "Certified European Trichological Institute",
+    availableDays: ["Tuesday", "Wednesday", "Thursday", "Friday"],
+    priceTier: "Specialist",
+  },
+];
